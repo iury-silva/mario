@@ -68,7 +68,7 @@ nav ul {
 }
 
 .fa-solid:hover {
-  transition: 0.4s ease-in-out;
+  transition: 0.6s ease-in-out;
   color: rgb(117, 109, 109);
   transform: scale(1.1);
   -webkit-transform: scale(1.1);
@@ -76,7 +76,7 @@ nav ul {
 }
 
 .fa-youtube:hover {
-  transition: 0.4s ease-in-out;
+  transition: 0.6s ease-in-out;
   color: rgb(255, 0, 0);
   transform: scale(1.1);
   -webkit-transform: scale(1.1);
@@ -84,7 +84,7 @@ nav ul {
 }
 
 .fa-instagram:hover {
-  transition: 0.4s ease-in-out;
+  transition: 0.6s ease-in-out;
   color: rgb(116, 12, 185);
   transform: scale(1.1);
   -webkit-transform: scale(1.1);
@@ -92,7 +92,7 @@ nav ul {
 }
 
 .fa-facebook:hover {
-  transition: 0.4s ease-in-out;
+  transition: 0.6s ease-in-out;
   color: rgb(0, 17, 255);
   transform: scale(1.1);
   -webkit-transform: scale(1.1);
